@@ -28,3 +28,9 @@
 - Programa 16 "Verificar suma"
 - Programa 17 "Covertir temperaturas"
 - Programa 18 "Paga trabajador v2"
+
+## Actividad 4
+- Programa 19 "Verifica suma"
+- Programa 20 "Ley de Newton"
+- Programa 21 "Aceptar estudiante"
+- Programa 22 "Tipo de ángulo"
