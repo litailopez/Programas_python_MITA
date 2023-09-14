@@ -34,3 +34,18 @@
 - Programa 20 "Ley de Newton"
 - Programa 21 "Aceptar estudiante"
 - Programa 22 "Tipo de ángulo"
+
+## Tarea 2
+- Programa 23 "Números consecutivos"
+- Programa 24 "Número mayor"
+- Programa 25 "Día de la semana"
+- Programa 26 "Números romanos"
+- Programa 27 "Cálculo de notas"
+- Programa 28 "Aceptar estudiante v2"
+
+## Actividad 5
+- Programa 29 "Números 1-100"
+- Programa 30 "Números 100-1"
+- Programa 31 "Numeros 1-200-10"
+- Programa 32 "Números suma 100"
+- Programa 33 "Conteo números"
