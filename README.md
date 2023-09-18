@@ -49,3 +49,9 @@
 - Programa 31 "Numeros 1-200-10"
 - Programa 32 "Números suma 100"
 - Programa 33 "Conteo números"
+
+## Actividad 6
+- Programa 34 "Tabla de conversión"
+- Programa 35 "Conjetura de Collatz"
+- Programa 36 "Tabla multiplicar"
+- Programa 37 "Tabla multiplicar V2"
