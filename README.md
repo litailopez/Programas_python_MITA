@@ -55,3 +55,11 @@
 - Programa 35 "Conjetura de Collatz"
 - Programa 36 "Tabla multiplicar"
 - Programa 37 "Tabla multiplicar V2"
+
+## Tarea 3
+- Programa 38 "Impares ascendente"
+- Programa 39 "pares descendente"
+- Programa 40 "Promedio suma"
+- Programa 41 "Suma 200"
+- Programa 42 "Conversion de temperaturas"
+- Programa 43 "Número mayor"
