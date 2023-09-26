@@ -63,3 +63,13 @@
 - Programa 41 "Suma 200"
 - Programa 42 "Conversion de temperaturas"
 - Programa 43 "Número mayor"
+
+## Examen parcial 1
+- Programa 44 "Examen parcial unidad 1"
+
+## Actividad 7
+- Programa 45 "Numeros 1-100"
+- Programa 46 "Numeros 100-1"
+- Programa 47 "Arriba abajo"
+- Programa 48 "Suma pares e impares"
+- Programa 49 "Suma numeros"
