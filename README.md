@@ -73,3 +73,10 @@
 - Programa 47 "Arriba abajo"
 - Programa 48 "Suma pares e impares"
 - Programa 49 "Suma numeros"
+
+## Actividad 8
+- Programa 50 "Factorial"
+- Programa 51 "Tabla multiplicar"
+- Programa 52 "Tablas multiplicar"
+- Programa 53 "Piramide caracter"
+- Programa 54 "Factorial numeros"
