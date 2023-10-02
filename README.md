@@ -80,3 +80,10 @@
 - Programa 52 "Tablas multiplicar"
 - Programa 53 "Piramide caracter"
 - Programa 54 "Factorial numeros"
+
+## Tarea 4
+- Programa 55 "Numeros 10 en 10"
+- Programa 56 "Suma pares 2"
+- Programa 57 "Secuencia numeros 1"
+- Programa 58 "Secuencia numeros 2"
+- Programa 59 "Secuencia terminos 1"
