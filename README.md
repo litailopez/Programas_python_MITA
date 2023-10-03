@@ -87,3 +87,11 @@
 - Programa 57 "Secuencia numeros 1"
 - Programa 58 "Secuencia numeros 2"
 - Programa 59 "Secuencia terminos 1"
+
+
+## Actividad 9
+- Programa 60 "Acceder lista"
+- Programa 61 "Cambiar lista"
+- Programa 62 "Agregar lista"
+- Programa 63 "Remover lista"
+- Programa 64 "Iterar lista"
