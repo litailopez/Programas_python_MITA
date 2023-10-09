@@ -95,3 +95,27 @@
 - Programa 62 "Agregar lista"
 - Programa 63 "Remover lista"
 - Programa 64 "Iterar lista"
+
+## Actividad 10
+- Programa 65 "Procesar calificaciones"
+- Programa 66 "Sumar listas"
+- Programa 67 "Dia paga"
+- Programa 68 "Nombres edades"
+- Programa 69 "Listas aleatorios"
+
+## Tarea 5
+- Programa 70 ""
+- Programa 71 ""
+- Programa 72 ""
+- Programa 73 ""
+- Programa 74 ""
+- Programa 75 ""
+- Programa 76 ""
+- Programa 77 ""
+- Programa 78 ""
+- Programa 79 ""
+
+## Actividad 11
+- Programa 80 "Estudiante"
+- Programa 81 "Calificaciones"
+- Programa 82 "Nombres y edades"
