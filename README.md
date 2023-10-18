@@ -118,3 +118,7 @@
 # Actividad 12
 - Programa 76 "Trabajando conjuntos"
 - Programa 77 "Operaciones conjuntos"
+
+# Tarea 7
+- Programa 88 "Personas"
+- Programa 89 "Numeros"
