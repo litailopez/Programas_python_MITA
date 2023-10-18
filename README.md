@@ -114,3 +114,7 @@
 - Programa 85 "Agregar diccionario"
 - Programa 86 "Eliminar diccionario"
 - Programa 87 "Procesar diccionario"
+
+# Actividad 12
+- Programa 76 "Trabajando conjuntos"
+- Programa 77 "Operaciones conjuntos"
