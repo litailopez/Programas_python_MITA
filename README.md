@@ -122,3 +122,6 @@
 # Tarea 7
 - Programa 88 "Personas"
 - Programa 89 "Numeros"
+
+## Examen parcial 2
+- Programa 90  "Examen parcial unidad 2"
