@@ -125,3 +125,21 @@
 
 ## Examen parcial 2
 - Programa 90  "Examen parcial unidad 2"
+
+## Actividad 13
+- Programa 91 "Funcion"
+- Programa 92 "Funcion parametro"
+- Programa 93 "Funcion parametros"
+- Programa 94 "Funcion mas parametros"
+- Programa 95 "Funcion parametros nombre"
+- Programa 96 "Funcion parametros por defecto"
+- Programa 97 "Funcion parametros nombre"
+- Programa 98 "Tabla multiplicar"
+- Programa 99 "Cuadro caracter"
+- Programa 100 "Numero mayor"
+- Programa 101 "Estacion del año"
+- Programa 102 "Temperatura"
+- Programa 103 "Suma digitos"
+- Programa 104 "Factorial"
+- Programa 105 "Calificacion con letra"
+- Programa 106 "Suma numeros en un rango"
