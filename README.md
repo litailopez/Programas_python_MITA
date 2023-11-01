@@ -143,3 +143,9 @@
 - Programa 104 "Factorial"
 - Programa 105 "Calificacion con letra"
 - Programa 106 "Suma numeros en un rango"
+
+## Tarea 8
+- Programa 107 "Número menor"
+- Programa 108 "Día de la semana"
+- Programa 109 "Medidas longitud"
+- Programa 110 "Suma pares e impares"
