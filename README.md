@@ -149,3 +149,15 @@
 - Programa 108 "Día de la semana"
 - Programa 109 "Medidas longitud"
 - Programa 110 "Suma pares e impares"
+
+## Actividad 14
+- Programa 111 "Suma"
+- Programa 112 "Pares"
+- Programa 113 "Mayor menor"
+- Programa 114 "Mayores promedio"
+- Programa 115 "Pares e impares"
+- Programa 116 "Aleatorios"
+- Programa 117 "Nombres"
+- Programa 118 "Funciones"
+- Programa 119 "Usar funciones"
+- Programa 120 "Modulos integrados"
