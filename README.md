@@ -161,3 +161,8 @@
 - Programa 118 "Funciones"
 - Programa 119 "Usar funciones"
 - Programa 120 "Modulos integrados"
+
+## Tarea 9
+- Programa 121 "Suma digitos lista"
+- Programa 123 "Calcula factoriales"
+- Programa 124 "Estadísticas básicas"
