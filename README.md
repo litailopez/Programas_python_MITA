@@ -166,3 +166,8 @@
 - Programa 121 "Suma digitos lista"
 - Programa 123 "Calcula factoriales"
 - Programa 124 "Estadísticas básicas"
+
+## Actividad 15
+- Programa 125 "Empleados"
+- Programa 127 "Circulo"
+- Programa 128 "Rectangulo"
