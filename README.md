@@ -171,3 +171,9 @@
 - Programa 125 "Empleados"
 - Programa 127 "Circulo"
 - Programa 128 "Rectangulo"
+
+## Tarea 10
+- Programa 129 "Articulo"
+
+## Actividad 16
+- Programa 130 "Ventas"
