@@ -177,3 +177,6 @@
 
 ## Actividad 16
 - Programa 130 "Ventas"
+
+## Examen parcial 3
+- Programa 131 "Examen parcial unidad 3"
